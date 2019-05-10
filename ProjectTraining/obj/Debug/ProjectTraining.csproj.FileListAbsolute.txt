@@ -1,0 +1,14 @@
+C:\Users\alexs\Desktop\C# Projects\ProjectTraining\bin\Debug\ProjectTraining.exe.config
+C:\Users\alexs\Desktop\C# Projects\ProjectTraining\bin\Debug\ProjectTraining.exe
+C:\Users\alexs\Desktop\C# Projects\ProjectTraining\bin\Debug\ProjectTraining.pdb
+C:\Users\alexs\Desktop\C# Projects\ProjectTraining\obj\Debug\ProjectTraining.LoginForm.resources
+C:\Users\alexs\Desktop\C# Projects\ProjectTraining\obj\Debug\ProjectTraining.Properties.Resources.resources
+C:\Users\alexs\Desktop\C# Projects\ProjectTraining\obj\Debug\ProjectTraining.csproj.GenerateResource.cache
+C:\Users\alexs\Desktop\C# Projects\ProjectTraining\obj\Debug\ProjectTraining.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Desktop\C# Projects\ProjectTraining\obj\Debug\ProjectTraining.exe
+C:\Users\alexs\Desktop\C# Projects\ProjectTraining\obj\Debug\ProjectTraining.pdb
+C:\Users\alexs\Desktop\C# Projects\ProjectTraining\obj\Debug\ProjectTraining.RegistrationForm.resources
+C:\Users\alexs\Desktop\C# Projects\ProjectTraining\obj\Debug\ProjectTraining.csprojAssemblyReference.cache
+C:\Users\alexs\Desktop\C# Projects\ProjectTraining\bin\Debug\Classes\DataBase\Users.mdf
+C:\Users\alexs\Desktop\C# Projects\ProjectTraining\bin\Debug\Classes\DataBase\Users_log.ldf
+C:\Users\alexs\Desktop\C# Projects\ProjectTraining\obj\Debug\ProjectTraining.MainForm.resources
