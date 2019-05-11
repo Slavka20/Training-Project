@@ -36,17 +36,17 @@ namespace ProjectTraining
 
         private void BtnMenu_Click(object sender, EventArgs e)
         {
-            bool isSkipped = true;
+            //bool isSkipped = true;
 
-            if (isSkipped == true)
-            {
-                pnlLeft.Size = new Size(186, 411);
-                isSkipped = false;
-            }
-            else if ()
-            {
-                isSkipped = true;
-            }
+            //if (isSkipped == true)
+            //{
+            //    pnlLeft.Size = new Size(186, 411);
+            //    isSkipped = false;
+            //}
+            //else if ()
+            //{
+            //    isSkipped = true;
+            //}
         }
     }
 }
